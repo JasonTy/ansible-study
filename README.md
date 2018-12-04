@@ -28,6 +28,6 @@ https://ansible-tran.readthedocs.io/en/latest/docs/playbooks_intro.html#about-pl
 
 ```vim /etc/ansible/playbooks/test.yml```
 
-Last run ansible-playbook test.yml
+Last run ```ansible-playbook test.yml```
 
 
