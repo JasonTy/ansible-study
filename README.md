@@ -26,4 +26,8 @@ https://ansible-tran.readthedocs.io/en/latest/docs/playbooks_intro.html#about-pl
 
 ```mkdir /etc/ansible/playbooks/test.yml```
 
+```vim /etc/ansible/playbooks/test.yml```
+
+Last run ansible-playbook test.yml
+
 
