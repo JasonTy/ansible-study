@@ -16,4 +16,14 @@ Edit ```hosts``` file  ```vim /etc/ansible/hosts```
 
 Through command line look up ```ansible all -m ping -u root```
 
+We can also customize our requirements through ansible 
+
+Playbook official Learning document
+
+https://ansible-tran.readthedocs.io/en/latest/docs/playbooks_intro.html#about-playbooks
+
+**Example**
+
+```mkdir /etc/ansible/playbooks/test.yml```
+
 
