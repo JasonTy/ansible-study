@@ -8,7 +8,7 @@ Copy the contents of the ```examples``` file to ```/etc/ansible```
 
 Edit ```hosts``` file  ```vim /etc/ansible/hosts```
 
--[webservers]
+- [webservers]
 
 ```101.112.65.20```
 ```47.96.70.141```
