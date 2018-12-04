@@ -1,0 +1,12 @@
+---
+- hosts: 102.143.23.16
+  remote_user: root
+  tasks:
+  - name: create folder
+    shell: mkdir jasontest
+
+- hosts: 34.12.23.152
+  remote_user: root
+  tasks:
+  - name: create folder
+    shell: mkdir jasontest02
